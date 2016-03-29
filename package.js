@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'kizimo:accounts-bluemix',
+  name: 'geoffcorey:accounts-bluemix',
   summary: "Login service for Bluemix accounts",
   version: "1.0.0",
-  git: 'https://github.com/kizimo/accounts-bluemix.git'
+  git: 'https://github.com/geoffcorey/accounts-bluemix.git'
 });
 
 Package.onUse(function(api) {
